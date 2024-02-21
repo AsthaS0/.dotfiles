@@ -1,0 +1,8 @@
+Astha Singh
+Summary - I followed the directions given to me and when i had problems I asked the TA to clarify. When I first entered the vim .vimrc I thought I was in the wrong place but the TA helped me figure out that I was correct and that I had to press "I" in order to type. I also was confused on step 12 because I did not know what I had to write after "cp" in order to change the file name.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
